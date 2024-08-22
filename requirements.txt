@@ -1,7 +1,3 @@
-speechrecognition
-python-dotenv
-pyttsx3
-openai
-langchain
-pygame
-pyaudio
+openai 
+streamlit 
+audio_recorder_streamlit
